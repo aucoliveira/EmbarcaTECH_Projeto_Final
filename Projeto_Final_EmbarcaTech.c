@@ -46,7 +46,7 @@ const uint I2C_SCL = 15;
 uint8_t ssd[ssd1306_buffer_length]; // Declara um array seja um buffer de dados para um display, armazenando os pixels antes de enviar para tela.
 struct render_area frame_area;    // Preparar área de renderização para o display (ssd1306_width pixels por ssd1306_n_pages páginas)
 
-// Função do beep sonoeo
+// Função do beep sonoro
 static void beep(uint pin, uint duration_ms);
 
 // Função para limpar o display
@@ -149,6 +149,7 @@ void caixa_cheia() {
     }
 }
 
+// Lógica do sistema
 void loop() {
     while(true) {
         // Verifica se o botão A foi pressionado
@@ -224,7 +225,7 @@ void loop() {
                 " Bomba  com ",
                 "  Defeito  "
             };
-            
+
             int num_linhas = sizeof(text) / sizeof(text[0]);  // Calcula o número de linhas
             beep(BUZZER_PIN, 500);
             imprime_texto(text, num_linhas); 
