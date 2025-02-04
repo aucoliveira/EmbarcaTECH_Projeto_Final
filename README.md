@@ -103,14 +103,15 @@ O sistema utiliza um **Raspberry Pi Pico** como microcontrolador, um **display O
 
 ```
 sistema-bomba-agua/
-├── src/                  # Código-fonte do projeto
-│   ├── main.c            # Lógica principal do sistema
-│   ├── ssd1306.c         # Driver do display OLED
-│   └── ssd1306.h         # Cabeçalho do driver
-├── inc/                  # Arquivos de cabeçalho
-├── CMakeLists.txt        # Configuração do CMake
-├── README.md             # Este arquivo
-└── LICENSE               # Licença do projeto
+├── src/                                       # Pasta principal do código-fonte
+│   ├── Projeto_Final_EmbarcaTech.c            # Arquivo com a lógica principal do sistema
+│   ├── ssd1306_i2c.c                          # Implementação do driver do display OLED (comunicação I2C)
+│   ├── ssd1306_font.h                         # Arquivo de cabeçalho com definições de fontes para o display
+│   ├── ssd1306.h                              # Arquivo de cabeçalho principal do driver do display OLED
+├── inc/                                       # Pasta para arquivos de cabeçalho (headers)
+│   └── ssd1306_i2c.h                          # Cabeçalho do driver do display OLED (declarações de funções e estruturas)
+├── CMakeLists.txt                             # Arquivo de configuração do CMake para compilar o projeto
+├── README.md                                  # Arquivo de documentação do projeto (este arquivo)
 ```
 
 ---
