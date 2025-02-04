@@ -1,4 +1,3 @@
-Aqui está o **README.md** atualizado com os códigos formatados corretamente para o Markdown identificar e destacar:
 
 ---
 
