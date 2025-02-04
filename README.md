@@ -57,8 +57,7 @@ O sistema utiliza um **Raspberry Pi Pico** como microcontrolador, um **display O
 
 ## 📸 Imagens do Projeto
 
-![Diagrama do Sistema](https://via.placeholder.com/800x400.png?text=Diagrama+do+Sistema)
-*(Adicione uma imagem do diagrama do sistema ou fotos do hardware montado)*
+![Diagrama do Sistema](img/fluxograma.png)
 
 ---
 
@@ -296,15 +295,14 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ## 📧 Contato
 
-**Augusto Cesar Barros de Oliveira**  
-- Email: [seu-email@example.com](mailto:seu-email@example.com)  
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)  
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)  
+**Augusto Cesar**  
+- Email: [azotaugusto@gmail.com](mailto:azotaugusto@gmail.com)  
+- GitHub: [@aucoliveira](https://github.com/aucoliviera)  
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/augusto-cesar-devjava/)  
 
 ---
 
-Feito com ❤️ por **ChipFlow** 🚀
+Feito com ❤️  🚀
 
 --- 
 
-Agora, os códigos estão formatados corretamente para o Markdown, utilizando blocos de código com ```c para destacar a sintaxe do C. Isso garantirá que o GitHub renderize o código corretamente. 😊
