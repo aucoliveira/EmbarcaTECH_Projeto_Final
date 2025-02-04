@@ -277,7 +277,7 @@ void imprime_texto(char *text[], int num_linhas) {
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é livre.
 
 ---
 
@@ -302,7 +302,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ---
 
-Feito com ❤️  🚀
+Feito com ❤️   🚀
 
 --- 
 
