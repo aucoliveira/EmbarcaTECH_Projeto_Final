@@ -298,7 +298,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 **Augusto Cesar**  
 - Email: [azotaugusto@gmail.com](mailto:azotaugusto@gmail.com)  
 - GitHub: [@aucoliveira](https://github.com/aucoliviera)  
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/augusto-cesar-devjava/)  
+- LinkedIn: [Augusto de Oliviera](https://www.linkedin.com/in/augusto-cesar-devjava/)  
 
 ---
 
